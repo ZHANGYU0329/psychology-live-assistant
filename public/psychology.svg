@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#8A2BE2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 外圆 -->
+  <circle cx="12" cy="12" r="10" stroke="#8A2BE2" stroke-width="2"></circle>
+  
+  <!-- 心形 -->
+  <path d="M12 18c-0.5-0.5-8-5.5-4-10 2-2 4 0 4 2 0-2 2-4 4-2 4 4.5-3.5 9.5-4 10z" fill="#8A2BE2" stroke="none"></path>
+  
+  <!-- 大脑纹路 -->
+  <path d="M8 9C7 10 7 12 8 13" stroke="#8A2BE2" stroke-width="1.5"></path>
+  <path d="M16 9C17 10 17 12 16 13" stroke="#8A2BE2" stroke-width="1.5"></path>
+</svg>
